@@ -1,2 +1,6 @@
 113123
+<<<<<<< HEAD
 add local repo
+=======
+add remote repo
+>>>>>>> bd16072d042d440fca70afc8c4f36be3821ee60b
