@@ -1,8 +1,4 @@
 113123
 add local repo  new info
-<<<<<<< HEAD
-
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-=======
-dfjdfjdjdjjdjjd
->>>>>>> 3ba2cd9320a4747883e94b932a129cdf58fe5082
+
